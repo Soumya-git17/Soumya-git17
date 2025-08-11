@@ -1,7 +1,10 @@
-## Hi there 👋 I am Soumyadip Dutta
+## 👋 Hi, I'm Soumyadip Dutta
+I am an Electrical Engineering Undergrad from National Institute of Technology, Durgapur.
 
----
-I am an Electrical Engineering Undergrad from National Institute of Technology, Durgapur. I love to play with circuits and interested in Robotics, Machine learning and Embedded systems.
+🚀 **Electronics & Embedded Systems Enthusiast**  
+📍 Passionate about **microcontrollers, robotics, and AI**  
+💡 Skilled in **PCB design, circuit simulation, and hardware-software integration**  
+🔬 Hands-on with **embedded C, Python, and ML for edge devices**  
 
 
 
@@ -26,6 +29,7 @@ ___
 ![ESP32](https://img.shields.io/badge/-ESP32-gray?style=plastic)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-007ACC?style=plastic&logo=embedded&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-003B57?style=plastic&logo=freertos&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=plastic&logo=kicad&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
