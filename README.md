@@ -1,10 +1,46 @@
-<h1 align="center">Hi 👋, I'm Soumyadip Dutta</h1>
-<h3 align="center">I am an Electrical Engineering Undergrad from National Institute of Technology, Durgapur. I love to play with circuits and interested in Robotics, Machine learning and Embedded systems.</h3>
+## Hi there 👋 I am Soumyadip Dutta
 
-<p align="left">
-</p>
+---
+I am an Electrical Engineering Undergrad from National Institute of Technology, Durgapur. I love to play with circuits and interested in Robotics, Machine learning and Embedded systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
+___
+## 💻 Technologies I Work With  
+
+### **Programming & Software**  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=plastic&logo=matlab&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+
+---
+
+### **⚙️ Tools & Platforms**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-gray?style=plastic)
+![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-007ACC?style=plastic&logo=embedded&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-003B57?style=plastic&logo=freertos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+
+---
+
+### **🔌 Hardware & Communication Protocols**  
+![I2C](https://img.shields.io/badge/-I2C-4CAF50?style=plastic&logo=i2c&logoColor=white)
+![SPI](https://img.shields.io/badge/-SPI-FF5722?style=plastic&logo=spi&logoColor=white)
+![UART](https://img.shields.io/badge/-UART-FFC107?style=plastic&logo=uart&logoColor=black)
+![Serial Communication](https://img.shields.io/badge/-Serial_Communication-FF9900?style=plastic&logo=serial&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-009688?style=plastic&logo=electronics&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=plastic&logo=mqtt&logoColor=white)
+![Simulation](https://img.shields.io/badge/-Simulation-1E90FF?style=plastic&logo=simulation&logoColor=white)
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-git17&show_icons=true&locale=en&layout=compact" alt="soumya-git17" /></p>
