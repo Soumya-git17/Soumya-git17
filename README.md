@@ -36,14 +36,4 @@ ___
 
 ---
 
-### **🔌 Hardware & Communication Protocols**  
-![I2C](https://img.shields.io/badge/-I2C-4CAF50?style=plastic&logo=i2c&logoColor=white)
-![SPI](https://img.shields.io/badge/-SPI-FF5722?style=plastic&logo=spi&logoColor=white)
-![UART](https://img.shields.io/badge/-UART-FFC107?style=plastic&logo=uart&logoColor=black)
-![Serial Communication](https://img.shields.io/badge/-Serial_Communication-FF9900?style=plastic&logo=serial&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-009688?style=plastic&logo=electronics&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=plastic&logo=mqtt&logoColor=white)
-![Simulation](https://img.shields.io/badge/-Simulation-1E90FF?style=plastic&logo=simulation&logoColor=white)
-
----
 
