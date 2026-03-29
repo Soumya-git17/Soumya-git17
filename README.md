@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Soumyadip Dutta
+I am an Electrical Engineering Undergrad from National Institute of Technology, Durgapur.
 
-Electrical Engineering undergraduate at National Institute of Technology Durgapur with a strong interest in embedded systems, robotics, and intelligent hardware.
-
-⚡ I enjoy building systems where electronics and software work together
-🤖 Interested in microcontrollers, robotics, AI, and embedded applications
-🛠️ Experienced with PCB design, circuit simulation, and hardware-software integration
-💻 Comfortable working with Embedded C, Python, Verilog, and machine learning for edge devices
-🚀 Always exploring new projects in electronics, control systems, and autonomous systems
+🚀 **Electronics & Embedded Systems Enthusiast**  
+📍 Passionate about **microcontrollers, robotics, and AI**  
+💡 Skilled in **PCB design, circuit simulation, and hardware-software integration**  
+🔬 Hands-on with **embedded C, Python, Verilog and ML for edge devices**  
